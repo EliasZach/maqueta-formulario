@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.sombra {
+    box-shadow: 0px 0px 20px 5px #202020;
+}
+
+html {
+    scrollbar-width: none;
+}
